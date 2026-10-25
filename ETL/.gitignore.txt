@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración con credenciales (¡CRÍTICO!)
+config.py
+.env
+
+# Base de datos local y logs
+*.db
+*.sqlite3
+etl.log
+backups/

@@ -1,0 +1,7 @@
+Fecha,TipoMovimiento,Monto,Cuenta,Categoria,Inversion,Cantidad,PrecioUnitario,TipoTransaccionInversion,Comision,Impuestos
+09/10/2026,Ingreso,9500,Banco Nómina,Ingreso Nómina,,,,,,
+09/10/2026,Gasto,20,Banco Nómina,Transporte,,,,,,
+09/10/2026,Gasto,110,Banco Nómina,Alimentación,,,,,,
+09/10/2026,Gasto,20,Banco Nómina,Alimentación,,,,,,
+09/10/2026,Inversión,200,Cajita Nu,,Cajita Nu,1,200,Aporte,0,0
+18/10/2026,gasto,20,banco nomina ,chetos ,,1,200,,0,0
